@@ -1,3 +1,5 @@
 # Hi there!
 
-[Click here to visit my website!](https://7r4c3.github.io/)
+- [My website](https://sites.google.com/view/artemive)
+- Discord: Nightshade#4211
+- ![Nightshade's Github Stats](https://github-readme-stats.vercel.app/api?username=Atropa-Solanaceae&show_icons=true&theme=dark)
