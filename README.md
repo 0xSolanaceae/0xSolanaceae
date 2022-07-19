@@ -11,6 +11,9 @@
   <a href="https://open.spotify.com/user/tca9mi98sda5spbadlzh6hkl0?si=2b59be16396d42b0">
     <img src="https://img.shields.io/badge/spotify-black?style=for-the-badge&logo=spotify&logoColor=brightgreen" alt="Spotify Badge"/>
   </a>
+  <a href="https://www.instagram.com/solanaceae_solanum/">
+    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=hotpink" alt="Instagram Badge"/>
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=solanaceaesolanum@gmail.com&su=Nice to meet you!">
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=firebrick" alt="Gmail Badge"/>
   </a>
