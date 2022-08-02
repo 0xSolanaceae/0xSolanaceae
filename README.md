@@ -14,9 +14,6 @@
   <a href="https://www.instagram.com/solanaceae_solanum/">
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=hotpink" alt="Instagram Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=solanaceaesolanum@gmail.com&su=Nice to meet you!">
-    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=firebrick" alt="Gmail Badge"/>
-  </a>
 </div>
 
 <div id="tools" align="center">
