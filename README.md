@@ -18,8 +18,6 @@
 
 <div id="tools" align="center">
   <img src="https://komarev.com/ghpvc/?username=Atropa-Solanaceae&style=flat&color=blueviolet&label=Views" alt=""/>
-  
-  <img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 </div>
 
 <div align="center">
