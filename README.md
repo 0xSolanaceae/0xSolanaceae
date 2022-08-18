@@ -20,6 +20,10 @@
   <img src="https://komarev.com/ghpvc/?username=Atropa-Solanaceae&style=flat&color=blueviolet&label=Views" alt=""/>
 </div>
 
+<div id="tools" align="center">
+  <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</div>
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>&nbsp;
