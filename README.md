@@ -87,4 +87,14 @@
   
 </div>
 
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=Atropa-Solanaceae&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</div>
+
+<hr>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atropa-Solanaceae&layout=compact&hide=html&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
