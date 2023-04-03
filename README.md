@@ -1,11 +1,9 @@
 <div id="header" align="center">
   <img
     src="https://media.giphy.com/media/l0MYO4fEYNLqpjWcU/giphy.gif"
-    width="300"
+    width="329"
   />
 </div>
-
----
 
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/554839745340112907">
@@ -30,12 +28,7 @@
   </a>
 </div>
 
-<div id="tools" align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Atropa-Solanaceae&style=flat&color=blueviolet&label=Views"
-    alt=""
-  />
-</div>
+---
 
 <div id="tools" align="center">
   <img
@@ -43,58 +36,17 @@
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-    title="Git"
-    **alt="Git"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg"
-    title="Atom"
-    **alt="Atom"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-    title="Bash"
-    **alt="Bash"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
-    title="Python"
-    **alt="Python"
-    width="40"
-    height="40"
-  />&nbsp; <img
-  src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"
-  title="Putty" **alt="Putty width="40" height="40"/>&nbsp; <img
-  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-  title="Putty" **alt="Putty width="40" height="40"/>&nbsp;
-</div>
-
----
-
-<div align="center">
-
-  [![GitHub
-  Streak](http://github-readme-streak-stats.herokuapp.com?user=Atropa-Solanaceae&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-</div>
-
-<div align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=Atropa-Solanaceae&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-</div>
-
-<hr>
-
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://github.com/HawksDev/HawksDev/blob/main/SociableCleanErmine-max-1mb.gif" width="850">
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atropa-Solanaceae&layout=compact&hide=html&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atropa-Solanaceae&layout=compact&hide=html&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
+
+<div id="tools" align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Atropa-Solanaceae&style=flat&color=blueviolet&label=Views"
+    alt=""
+  />
+</div>
+-->
