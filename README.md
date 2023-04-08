@@ -5,6 +5,10 @@
   />
 </div>
 
+<div id="sponsor" align="center">
+  <a href='https://ko-fi.com/L4L8DYKC3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/554839745340112907">
     <img
