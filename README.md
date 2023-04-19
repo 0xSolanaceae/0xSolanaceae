@@ -10,7 +10,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://discordapp.com/users/554839745340112907">
+  <a href="https://discordapp.com/users/1098339239432835162">
     <img
       src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=skyblue"
       alt="Discord Badge"
