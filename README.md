@@ -14,11 +14,7 @@
   </a>
 </div>
 
----
-<div id="tools" align="center">
-  <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-</div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <img src="https://github.com/HawksDev/HawksDev/blob/main/SociableCleanErmine-max-1mb.gif" width="850">
 </div>
