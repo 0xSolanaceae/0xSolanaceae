@@ -1,20 +1,18 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYO4fEYNLqpjWcU/giphy.gif" width="329">
+  
+  ![solanacircle](https://github.com/Atropa-Solanaceae/Atropa-Solanaceae/assets/89823371/120766f3-6752-46fa-bbab-4ac3cb401465)
 </div>
 
 <div align="center">
   <a href="https://discordapp.com/users/1098339239432835162">
     <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=skyblue" alt="Discord Badge">
   </a>
-  <a href="https://open.spotify.com/user/tca9mi98sda5spbadlzh6hkl0?si=2b59be16396d42b0">
-    <img src="https://img.shields.io/badge/spotify-black?style=for-the-badge&logo=spotify&logoColor=brightgreen" alt="Spotify Badge">
-  </a>
   <a href="https://www.instagram.com/solanaceae_solanum/">
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=hotpink" alt="Instagram Badge">
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 <div id="tools" align="center">
   <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
