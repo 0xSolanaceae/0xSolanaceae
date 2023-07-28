@@ -11,10 +11,6 @@
   <a href="mailto:solanaceae@duck.com">
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=Gmail&logoColor=skyblue" alt="Email Badge">
   </a>
-  
-  <a href="https://www.instagram.com/solanaceae_solanum/">
-    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=hotpink" alt="Instagram Badge">
-  </a>
 
   <a href="https://ko-fi.com/solanaceae">
     <img src="https://img.shields.io/badge/Ko--fi-black?style=for-the-badge&logo=ko-fi&logoColor=pink" alt="Kofi Badge">
