@@ -1,6 +1,6 @@
 <div align="center">
-  
-  ![solanacircle](https://github.com/Atropa-Solanaceae/Atropa-Solanaceae/assets/89823371/120766f3-6752-46fa-bbab-4ac3cb401465)
+
+  ![workspace](https://cdn.discordapp.com/attachments/1118260575990972507/1135022074218418226/workplace.png)
 </div>
 
 <div align="center">
