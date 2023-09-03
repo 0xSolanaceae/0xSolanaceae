@@ -1,8 +1,3 @@
-<div align="center">
-
-  ![workspace](https://cdn.discordapp.com/attachments/1118260575990972507/1135022074218418226/workplace.png)
-</div>
-
 <div id="presence" align="center">
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/1098339239432835162?theme=light&bg=bdace1&borderRadius=50px&idleMessage=Hacking!)](https://discord.com/users/1098339239432835162)
@@ -24,6 +19,7 @@
 </div>
 
 ---
+
 <div id="tools" align="center">
   <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
