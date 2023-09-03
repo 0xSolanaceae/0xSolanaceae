@@ -3,6 +3,12 @@
   ![workspace](https://cdn.discordapp.com/attachments/1118260575990972507/1135022074218418226/workplace.png)
 </div>
 
+<div id="presence" align="center">
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1098339239432835162?theme=light&bg=bdace1&borderRadius=50px&idleMessage=Hacking!)](https://discord.com/users/1098339239432835162)
+  
+</div>
+
 <div align="center">
   <a href="https://discordapp.com/users/1098339239432835162">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge">
