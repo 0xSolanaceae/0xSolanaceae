@@ -14,7 +14,7 @@
   </a>
 </div>
 
-[![An image of @atropasolanaceae's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atropasolanaceae)](https://holopin.io/@atropasolanaceae)
+[![@atropasolanaceae's Holopin badge](https://holopin.me/atropasolanaceae)](https://holopin.io/@atropasolanaceae)
 ---
 
 <div id="tools" align="center">
