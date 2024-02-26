@@ -8,10 +8,6 @@
   <a href="https://discordapp.com/users/1098339239432835162">
     <img src="https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge">
   </a>
-  
-  <a href="mailto:solanaceae@duck.com">
-    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=Gmail&logoColor=skyblue" alt="Email Badge">
-  </a>
 
   <a href="https://ko-fi.com/solanaceae">
     <img src="https://img.shields.io/badge/Ko--fi-black?style=for-the-badge&logo=ko-fi&logoColor=pink" alt="Kofi Badge">
