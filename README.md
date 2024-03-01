@@ -1,6 +1,6 @@
 <div id="presence" align="center">
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1098339239432835162?theme=light&bg=bdace1&borderRadius=50px&idleMessage=Hacking!)](https://discord.com/users/1098339239432835162)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1098339239432835162?theme=light&bg=946df7&borderRadius=50px&idleMessage=Hacking!)](https://discord.com/users/1098339239432835162)
   
 </div>
 
