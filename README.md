@@ -6,7 +6,7 @@
 
 <div id="presence" align="center">
   
-  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Atropa-Solanaceae&exclude_repo=reclamation&theme=onedark&layout=donut)
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Atropa-Solanaceae&exclude_repo=reclamation&hide=css,java,html&theme=onedark&layout=donut)
 
 </div>
 
