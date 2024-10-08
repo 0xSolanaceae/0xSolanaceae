@@ -1,22 +1,15 @@
-<div id="presence" align="center">
+<div align="center" style="background-color: #d5c4a1; padding: 20px; border-radius: 10px;">
+
+  ![Discord Presence](https://lanyard.cnrad.dev/api/1098339239432835162?theme=light&bg=fbf1c7&borderRadius=5px&idleMessage=Hacking!&hideBadges=true)
+
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSolanaceae&exclude_repo=reclamation&hide=css,java,html&theme=gruvbox_light&layout=donut)
   
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1098339239432835162?theme=light&bg=eadccc&borderRadius=50px&idleMessage=Hacking!)](https://discord.com/users/1098339239432835162)
-  
 </div>
 
-<div id="presence" align="center">
-  
-  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSolanaceae&exclude_repo=reclamation&hide=css,java,html&theme=onedark&layout=donut)
+<br>
 
-</div>
+<img src="https://raw.githubusercontent.com/MartinChab-Pro/MartinChab-Pro/refs/heads/main/SociableCleanErmine-max-1mb.gif" width="850" style="border-radius: 10px;">
 
----
-[![@atropasolanaceae's Holopin badge](https://holopin.me/atropasolanaceae)](https://holopin.io/@atropasolanaceae)
----
+<br>
 
-<div id="tools" align="center">
-  <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-</div>
-<div align="center">
-  <img src="https://github.com/HawksDev/HawksDev/blob/main/SociableCleanErmine-max-1mb.gif" width="850">
-</div>
+![holopin badge](https://holopin.me/atropasolanaceae)
