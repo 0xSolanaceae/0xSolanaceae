@@ -7,6 +7,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MartinChab-Pro/MartinChab-Pro/refs/heads/main/SociableCleanErmine-max-1mb.gif" width="850" style="border-radius: 10px;">
+![night city](city.gif)
 
 ![holopin badge](https://holopin.me/atropasolanaceae)
