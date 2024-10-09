@@ -7,6 +7,5 @@
 
 <br>
 
-![night city](city.gif)
-
 ![holopin badge](https://holopin.me/atropasolanaceae)
+![night city](city.gif)
